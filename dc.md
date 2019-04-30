@@ -23,7 +23,7 @@ address=/.smartplugconnect.phicomm.com/192.168.200.202
 使用原app配置或第三方软件配置
 
 
-* Node Red  流程
+## Node Red  流程
 
 ```
 [
